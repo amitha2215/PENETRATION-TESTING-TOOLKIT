@@ -28,3 +28,5 @@ INSTALLED DEPENDENCIES
 pip install -r requirements.txt
 
 OUTPUT
+
+![Image](https://github.com/user-attachments/assets/db48c4a8-45f4-4ce5-b13e-d69ea9bb880a)
