@@ -30,3 +30,6 @@ pip install -r requirements.txt
 OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/db48c4a8-45f4-4ce5-b13e-d69ea9bb880a)
+
+
+![Image](https://github.com/user-attachments/assets/77009feb-1137-4ae8-bfe3-4829efbdf6e4)
